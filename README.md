@@ -18,3 +18,8 @@ Success Criteria
 Requirement
 -------------
 Must use some of the features on Microsoft Azure Cloud Platform and AI Prebuilt tools to solve the problem
+
+
+Pitch Video
+-----------
+https://www.youtube.com/watch?v=hvoIAo0Ycdo
