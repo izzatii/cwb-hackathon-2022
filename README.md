@@ -4,10 +4,14 @@ Microsoft Code Without Barriers Hackathon 2022 Entry
 ------------------------------------------------------
 
 
-Problem statement - CIMB
-------------------------
+Problem statement
+----------------------
 Recruiter receives a huge amount of resumes everyday and the needs of hiring right talent is crucial. How do we use machine learning to screen and rank the top matching profile to expedite our screening process.
 
+
+Problem statement sponsor
+-------------------------
+CIMB
 
 Success Criteria
 -----------------
